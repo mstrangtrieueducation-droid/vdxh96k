@@ -53,7 +53,7 @@
   }
 
   function imagePath(item) {
-    return `assets/images/${item.word}.webp`;
+    return `assets/images/${item.word}.webp?v=20260805`;
   }
 
   function audioPath(item) {
